@@ -1,1 +1,1 @@
-# webpack-react
+# React-sanity
